@@ -1,1 +1,0 @@
-http://localhost:5000/api/lowlevel/items/Products?ProductId=1234&PublishOn=2018-01-01
